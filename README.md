@@ -8,15 +8,14 @@
 Efficiently manage and organize client and project information for various engineering works.<br>
 Automate pricing calculations based on material specifications andmeasurements.<br>
 <b><i>Specific Outcomes:</i></b><br>
-A fully functional CRM application that captures and manages:<br>
-Client company information, owner details, and contact information.<br>
+A fully functional CRM application that captures and manages: Client company information, owner details, and contact information.
 Worker details and material requirements with measurements.<br>
 Integration of engineering works, including:<br>
-Fabrication: Tracking processes such as Drilling, Welding, Cutting, and Folding<br>
-Shed Construction: Management of shed building projects.<br>
-Pipe Lining: Oversight of pipe repair and replacement tasks.<br>
+<b>Fabrication:</b> Tracking processes such as Drilling, Welding, Cutting, and Folding<br>
+<b>Shed Construction:</b> Management of shed building projects.<br>
+<b>Pipe Lining:</b> Oversight of pipe repair and replacement tasks.<br>
 
-<br><i>SALESFORCE KEY FEATURES AND CONCEPTS UTILIZED<i></br>
+<br><b><i>SALESFORCE KEY FEATURES AND CONCEPTS UTILIZED</i></b></br><em>
 
  Client Management: Comprehensive profiles with detailed contact information and project requirements.<br>
  
@@ -26,7 +25,7 @@ Pipe Lining: Oversight of pipe repair and replacement tasks.<br>
  
  Workflow Tracking: Detailed tracking of fabrication processes (Drilling, Welding, Cutting, Folding) and their statuses.<br>
  
- Reporting and Analytics: Tools for generating insights on project performance and resource allocation.<br>
+ Reporting and Analytics: Tools for generating insights on project performance and resource allocation.<br></em>
 
 <b>DETAILED STEPS TO SOLUTION DESIGN</b><br>
  Data Models: Create entities for clients, projects, workers, materials, and processes.<br>
@@ -37,16 +36,16 @@ Pipe Lining: Oversight of pipe repair and replacement tasks.<br>
 
 <b>TESTING AND VALIDATION</b><br>
 Approach to Testing:<br>
-Unit Testing: Test application logic to ensure accurate calculations and data handling.<br>
-User Interface Testing: Conduct usability tests with target users to gather feedback and refine the interface.<br>
+<i>Unit Testing:</i> Test application logic to ensure accurate calculations and data handling.<br>
+<i>User Interface Testing:</i> Conduct usability tests with target users to gather feedback and refine the interface.<br>
 
-<b>KEY SCENARIOS ADDRESSED BY SALESFORCE IN THE IMPLEMENTATION PROJECT<b><br>
+<b>KEY SCENARIOS ADDRESSED BY SALESFORCE IN THE IMPLEMENTATION PROJECT</b><br>
  Managing multiple clients and tracking their specific project needs and material requirements.<br>
  Automatically calculating prices based on material types and measurements input by users.<br>
  Tracking the progress of various engineering processes involved in fabrication, shed construction, and pipe lining.<br>
 
-CONCLUSION<br>
-This project aims to create a robust CRM application for engineering works that enhances the management of client information and project details. By automating pricing calculations and tracking essential processes, the application will improve operational efficiency and support engineering firms in delivering high-quality services.
+<b>CONCLUSION</b><br><em>
+This project aims to create a robust CRM application for engineering works that enhances the management of client information and project details. By automating pricing calculations and tracking essential processes, the application will improve operational efficiency and support engineering firms in delivering high-quality services.</em>
  
 
 	
